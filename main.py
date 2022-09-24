@@ -6,7 +6,7 @@ window = tk.Tk()
 
 # Create the label
 
-label = tk.Label(text="Hola, Tkinter")
+label = tk.Label(text="Hola")
 
 # Pack the label
 
